@@ -1,0 +1,6 @@
+.github
+.idea
+build
+composer.lock
+vendor
+run.php
