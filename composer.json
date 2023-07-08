@@ -6,6 +6,7 @@
         "laravel-placeholders"
     ],
     "homepage": "https://github.com/mpesic381/laravel-placeholders",
+    "version": "1.0.0",
     "license": "MIT",
     "type": "library",
     "authors": [
